@@ -1,0 +1,728 @@
+<html>
+
+	<head>
+	
+		<title>bbc tech clone</title>
+		
+		<link rel="stylesheet" type="text/css" href="2 CSS/bbc.css">
+		
+			<style>
+			
+			
+			#topbar  {
+			
+				width: 1000px;
+				margin:0 auto;
+				height: 40px
+				
+			
+			
+			}
+			
+			body  {
+			
+			margin: 0;
+			padding: 0;
+			font-family: ReithSans, Arial, Helvetica
+			
+			}
+			
+			#logo  {
+			
+				
+				margin-top:-30px;
+				height: 250%;
+				float: left;
+				margin-right: -30px;
+				
+			
+			
+				
+			
+			}
+			
+			.topbar-section  {
+			
+				float:left;
+				border-left: grey solid;
+				height: 100%;
+				font-weight: bold;
+			
+			
+			}
+			
+			#search-box2  {
+			
+				background-color: #E4E4E4;
+				border: none;
+				font-weight: bold;
+				font-size: 14px;
+				float: left;
+				padding: 4px;
+				margin: 5px:
+				float: left;
+			
+			
+			
+			}
+			
+			#signin-image  {
+			
+				height: 20%;
+				margin: 9px;
+				
+				
+				
+			
+			
+			}
+			
+			.topbar-menu  {
+			
+			
+			
+			  font-weight: bold;
+			  padding: 1px 13px;
+			  font-size: 90%;
+			  
+			 
+			
+			
+			}
+			
+			.more-arrow  {
+			
+			
+				width: 16px;
+				margin-left: 20px;
+			
+			
+			}
+			
+			.search-bar  {
+			
+			
+				padding: 1px 7px;
+				float: left;
+				
+							
+			
+			}
+			
+			#search-image  {
+			
+			
+			height: 50%;
+			
+			
+			
+			
+			}
+			
+			.clear  {
+			
+			
+			
+			
+				clear: both;
+			
+			
+			
+			
+			}
+			
+			#menu-bar-box {
+                
+                border-top: 1px solid #CCCCCC;
+                background-color: #BB1919;
+                width:100%;
+                height:90px;
+				position: relative;
+				top: -30px;
+				
+				
+				
+				
+			
+			
+			}
+			
+			#menu-bar-2-container  {
+			
+				width: 1000px;
+				margin: 0 auto;
+				position: relative;
+				background-color: #BB1919;
+				top: -35px;
+				
+				
+			
+				
+			
+			
+			
+			}
+			
+			h1  {
+			
+			
+				padding: 0;
+				margins: 0;
+				color: white;
+				font-size: 45px;
+				font-weight: normal;
+				position: relative;
+				right: -12px;
+				top: -20px;
+				
+			
+			
+			}
+			
+			#menu-bar-2  {
+			
+			
+				width: 100%;
+				margin: 0 auto;
+				height: 30px;
+				
+				
+			
+			
+			
+			
+			}
+			
+			#menu-bar-2 a  {
+			
+				color: white;
+				text-decoration: none;
+				margin-top: 5px;
+				padding: 0px 10px;
+				border-right: solid white;
+				position: relative;
+				top: -5px;
+			
+			
+			}
+			
+			#menu-bar-2 a:hover  {
+			
+			
+			
+				text-decoration: underline;
+			
+			
+		    }
+			
+			.no-border  {
+			
+			
+			
+				border: none !important;
+			
+			
+			
+			}
+			
+			#down-arrow  {
+			
+			
+				height: 10px;
+				postion: relative;
+				top: 10px;
+			
+			
+			
+			}
+			
+			#page-container  {
+			
+				width: 1000px;
+				margin: 0 auto;
+			
+			
+			
+			
+			}
+			
+			#main-article  {
+			
+				
+			
+			
+			}
+			
+			h2  {
+			
+			position: relative;
+			font-weight: normal;
+			margin-top: -20px;
+			font-size: 20px;
+			margin-left: 15px;
+			border-bottom: 2px solid #BB1919;
+			width: 43px;
+			
+			
+			
+			}
+			
+			h3  {
+			
+			
+			color: #AF6A40;
+			width: 205px;
+			position: relative;
+			top: 40px;
+			margin-left: 500px;
+			
+			
+			
+			
+			}
+			
+			h3 a  {
+			
+			
+			color: #AF6A40;
+			text-decoration: none;
+			font-size: 25px;
+			margin-left: 10px;
+			
+			
+			
+			
+			}
+			
+			h3 a:hover  {
+			
+			text-decoration: underline;
+			color: #1380A1;
+			
+			
+			
+			}
+			
+			#seach-logo2  {
+			
+			
+				height:24px;
+			
+			
+			}
+			
+			#article-summary  {
+			
+			
+				color: #5a5a5a;
+				width: 230px;
+				position: relative;
+				top: -230px;
+				left: 500px;
+			
+			
+			
+			}
+			
+			#article-image  {
+			
+			
+				height: 250px;
+				margin: 5px 30px;
+				position: relative;
+				top: -130px;
+				right: 13px;
+			
+			
+			}
+			
+			#article-summary img  {
+			
+			
+				height: 16px;
+			
+			
+			
+			}
+			
+			#article-summary a {
+			
+			
+				text-decoration: none;
+				color: black;
+			
+			
+			}
+			
+			#article-summary a:hover  {
+			
+				text-decoration: underline;
+				color: #1380A1
+			
+			
+			
+			}
+			
+			#line  {
+			
+			
+			
+			
+				position: relative;
+				top: 75px;
+				right: 480px;
+				width: 1024px;
+				color: #EAE7E6
+				
+			
+			
+			
+			
+			}
+			
+			#video-links  {
+			
+				
+				position:relative;
+				right: 480px;
+				top: 5px;
+				font-size: 100%;
+				font-weight: bold;
+			
+			
+			
+			
+			
+			}
+			
+			#video-links2  {
+			
+			
+			
+				position:relative;
+				left: -280px;
+				top: -30px;
+				font-size: 100%;
+				font-weight: bold;
+			
+			
+			}
+			
+			#bottom-articles  {
+			
+			
+				position: relative;
+				top: 40px;
+				font-weight: bold;
+				right: 300px;
+				width: 150px;
+				font-size: 17px;
+				color: #EAE7E6;
+				line-height: 25px;
+			
+			
+			
+			
+			}
+			
+			#bottom-articles2  {
+			
+			
+				position: relative;
+				top: 120px;
+				font-weight: bold;
+				right: 300px;
+				width: 150px;
+				font-size: 17px;
+				line-height: 25px;
+			
+		    }
+			
+			#bottom-article-line  {
+			
+			
+				position: relative;
+				top: 20px;
+				right: 200px;
+				border: 0;
+				border-top: 1px solid;
+				width: 350px;
+				color: #EAE7E6;
+				
+			}
+			
+			#bottom-articles img  {
+			
+			
+			height: 75px;
+			position: relative;
+			top: 70px;
+			right: 150px;
+			
+			
+			
+			}
+			
+			
+			#bottom-articles a {
+			
+			
+				color: #5A5A5A;
+				position: relative;
+				right: -250px;
+				top: -50px;
+			
+			
+			
+			}
+			
+			#bottom-articles2 a {
+			
+				color: #5A5A5A;
+				position: relative;
+				right: -250px;
+				top: -150px;
+			
+			
+			
+			
+			
+			}
+			
+			#bottom-articles2 img  {
+			
+			
+				height: 75px;
+			position: relative;
+			top: 70px;
+			right: 150px;
+			
+			
+			
+			}
+			
+			.date-markers  {
+			
+			position: relative;
+			right: 60px;
+			
+			
+			
+			}
+			
+			.date-markers2  {
+			
+			position: relative;
+			right: 60px;
+			top: -15px;
+			
+			
+			
+			}
+			
+		</style>
+			
+			
+			
+			
+			
+			
+			
+		
+		   	
+		 
+			
+			
+			
+			
+			
+			
+		
+		   	
+		 
+		
+	
+		
+	
+	
+	</head>
+	
+	<body>
+	
+	
+	
+			<div id="topbar">
+		
+			 
+			 <img id="logo"src="images/bbc-logo.png">
+		
+				
+					
+					<div class="topbar-section topbar-menu"> 
+						
+						<img class="signin-image" src="images/signin-logo2.jpg">
+				
+				</div>
+				
+				<div class="topbar-section topbar-menu">
+				
+					News
+					
+				</div>
+				
+				<div class="topbar-section topbar-menu">
+				
+					Sport
+					
+				</div>
+				
+				<div class="topbar-section topbar-menu">
+				
+					Reel
+					
+				</div>
+				
+				<div class="topbar-section topbar-menu">
+				
+					More <img class="more-arrow" 
+					src="images/more-arrow.jpg">
+					
+				</div>
+				
+			<div class="topbar-section2">
+			
+				<input id="search-box2"type="text" value=
+				"search">
+			  <input type="image" id="seach-logo2" src="images/search-image.jpg">
+			
+			</div>
+	
+				
+				
+
+
+		
+		    <div class="clear"></div>	
+		
+		  <div id="menu-bar-box"><h1>NEWS</h1>
+		
+		  </div>
+		
+		<div id="menu-bar-2-container"> 
+		
+			<div id="menu-bar-2">
+			
+				<a href="https://www.bbc.com/news">Home</a>
+				<a href="https://www.bbc.com/news/election/us2020">US Election</a>
+				<a href="https://www.bbc.com/news/coronavirus">Coronavirus</a>
+				<a href="https://www.bbc.com/news/video_and_audio/headlines">Video</a>
+				<a href="https://www.bbc.com/news/world">World</a>
+				<a href="https://www.bbc.com/news/world/us_and_canada">US &amp; Canada</a>
+		        <a href="">UK</a>
+				<a href=""class="no-border">More <img id="down-arrow" 
+					src="images/red-arrow.jpg"></a>
+			
+			</div>
+			
+			
+		
+		
+		</div>
+	
+		
+	  
+	
+	<div class="clear"></div>
+	
+		<div id="page-container">
+	
+			<div id="main-article">
+		
+			<h2>Tech</h2>
+			
+			<h3><a href="https://www.bbc.com/news/technology-53921081">
+			Warning over 'dangerous' DIY TikTok beauty trends</a></h3>
+				
+				<img id="article-image" src="images/pink-image.png">
+				
+				<div id="article-summary">Teenagers have posted videos of supposed teeth-whitening,
+                plumping and mole-removal tips.
+				
+			<p>
+				<img src="images/clock2.jpg"> 3h | 
+				<a href="https://www.bbc.com/news/technology>Technology"
+				>Technology</a>
+		    </p>
+			
+			
+		
+			
+			
+		<hr id="line">
+		
+			<div id="video-links"> <img id="video-logo" src
+		="images/video-logo.jpg"><a href=
+		"https://www.bbc.com/news/world-us-canada-53958427">
+		Meet Gertrude, the Neuralink pig
+		
+			</div>
+			
+		
+			<div id="video-links2"> <img id="video-logo" src
+		="images/video-logo.jpg"><a href=
+		"https://www.bbc.com/news/business-45645422">
+		Who is Elon Musk?
+		
+		
+		
+			
+		
+		
+		
+		<div id="bottom-articles"> 
+		<a href="https://www.bbc.com/news/
+		world-us-canada
+		-53955183"> <img src="images/fortnite-image.jpg">
+		Apple removes Fortnite developer
+		from App Store
+		
+		
+		
+		</div>
+		
+	<div class="date-markers"
+		<p> 
+		<img src="images/clock2.jpg">
+		1d |<a href="https://www.bbc.com/news/technology>Technology"> Technology</a>
+		</p>
+	</div>
+		
+		<hr id="bottom-article-line">
+		
+		<div id="bottom-articles2"><a href=
+		"https://www.bbc.co.uk/sounds/
+		play/
+		w3cszhp3"> <img src="images/tech-tent-image.jpg">
+		Tech Tent: Can the news industry trust Facebook?
+		</div>
+		
+		<div class="date-markers2"
+		<p> 
+		<img src="images/clock2.jpg">1d |
+		<a href="https://www.bbc.com/news/technology>Technology"> Technology</a>
+		</p>
+		
+		<hr id="bottom-article-line">
+	</div>
+		
+		
+		
+		
+	</div>
+		
+		
+	
+	</body>
+		
+		
+</html>
