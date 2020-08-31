@@ -1,0 +1,558 @@
+<html>
+
+  
+
+
+
+	<head>
+	 <style type="text/css">
+	
+	
+	    div {
+        display: table-cell;
+        
+        
+        vertical-align: middle;
+      }	
+		
+		
+		p  {
+		
+			font-family:Arial;
+			color: #7B7A76;
+			font-weight: bold;
+		
+		}
+		
+		#top-banner  {
+		    
+		    
+		    width: 1300px; 
+		    height: 110px;
+		    margin-right:0;
+		    background-color: #455844;
+		    position: relative;
+		    top: -11px;
+		    left: -10px;
+		    padding: 0;
+		    margin: 0;
+		    border-top: none;
+		   
+		}
+		
+		.topbar-section  {
+			
+				float:left;
+				height: %;
+				font-weight: bold;
+			
+			
+			}
+			
+		.topbar-section a  {
+			
+				font-weight: bold;
+				color: white;
+				text-decoration: none;
+				margin-top: 5px;
+				padding: 0px 10px;
+				border-right: solid white;
+				position: relative;
+				top: -35px;
+				
+			
+			
+			}
+			
+		.topbar-section a:hover  {
+		    
+		    
+		        text-decoration: underline;
+		    
+		    
+		    
+		}
+			
+     	.no-border  {
+			    
+			    border:none !important;
+			    
+			    
+			    
+			}
+			
+			.links-to-places a  {
+			    
+			    position; relative
+			    top: -33px;
+			    font-size: 21px;
+			    
+			    
+			    
+			}
+			
+			.my-font  {
+			    
+			    font-family: Bahnschrift Light;
+			    position: relative;
+			    top: -4px;
+			    left: 20px;
+			    font-weight: bold;
+			 
+			#novel-entry  {
+			    
+			  position: relative;
+			  left: -110px;
+			    
+			}
+			
+			#george-entry  {
+			    
+			  position: relative
+			  left: 110px !important;
+			  
+		   h1  {
+		       
+		       
+		      position: relative;
+		      top: -10px;
+		       
+		       
+		       
+		       
+		   }
+		   
+		   #tree-pic  {
+		       
+		       
+		     
+
+		       
+		       
+		   }
+		   
+		   .correctAnswer  {
+		       
+		       
+		       font-weight: bold;
+		       font-family: comic;
+		       color: #522213;
+		       
+		       
+		       
+		   }
+		   
+		   .wrongAnswer  {
+		       
+		       font-weight: bold;
+		       font-family: Times;
+		       color: #522213;
+		       
+		       
+		   }
+		   
+		   
+		   
+		   
+			    
+			    
+		
+			
+	
+	
+	</style>
+	
+
+	
+	
+		
+		  <header>
+		   <div id="top-banner"><h1 class="my-font" style="color:white">the best dallas coffee shops</h1>
+		     
+		     
+		     
+		     </div> 
+		     
+		     
+		    
+		     
+		    
+		    <body style="background-color:#F0DFCD">
+		       
+		 
+		
+		<div class="topbar-section links-to-places"> <a href="https://edisoncoffeeco.com/">Edison</a>
+		<a href="https://www.novelcoffeeroasters.com/">Novel</a>
+		<a href="https://www.georgecoffeeandprovisions.com/"class="no-border">George</a>
+		</div>
+		
+	
+			    
+			
+		  </header>
+		  
+	    <body>
+	       
+	        
+	    <br>
+	       
+		  
+		  <p style="text-align: left;">This is a site featuring some of my favorite spots
+		  in the DFW metroplex to grab coffee. To me, coffee is much
+		  more than a beverage. Coffee is an experience that cultivates
+		  community and provides a warmth that invites you to the third
+		  place. Sitting in your local coffee shop should relax, inspire,
+		  and reconstitute you in whatever you may have going on in 
+		  your busy life.<br> 
+		  <br><strong>My Hope is that this list provides you
+		  with many of those experiences through out the metroplex.</strong>
+		  </div>
+		  
+		  <br>
+		  <br>
+		  
+		  
+	 <ol>  
+		<div id="novel-entry" 
+		 
+		    <li><h3>Novel Coffee</h3></li>
+			<img src="novel image.jpg" width="300" height="300" style="align:left"> 
+			<p style="text-align:left">Novel Coffee is a charming little shop located in FlowerMound, 
+			off of 2499 and 3040. They have a wide variety of coffee selections
+			with special attention given to the orgins and roast. In their own
+			words, they "born out of the desire to share profound taste 
+			experiences with our community. We are committed to discovering 
+			amazing coffees fresh from harvest and roasting them with 
+			relentless attention to detail."
+			</p>
+		
+	</ol>
+			 <ol>
+			   <h4><strong>Best Drink Choices</strong></h4>
+			   <li>Shaken strawberry latte</li>
+			   <li>Cappucino</li>
+			   <li>Pour over (any orgin)</li>
+			 
+			 
+			 
+			 
+			 
+			 </ol>
+			 
+		
+			 
+			 
+			 <br>
+			 
+			 <p><strong>Which one will you get?</strong>
+			  
+			  <select>
+			    
+				<option>Shaken strawberry latte</option>
+				<option>Cappucino</option>
+				<option>Pour over</option></p>
+				
+				
+				
+				</select>
+				
+		</div>
+			  
+			 
+	          <p>.  .  .  .  .  .  .  .  .  .  .  .  
+			.  .  .  .  .  .  .  .  .  .  .  .  .
+			.  .  .  .  .  .  .  .  .  .  .  .  .
+			.  .  .  .  .  .  .  .  .  .  .  .  .
+			.  .  .  .  .  .  .  </p>
+			
+			
+			  
+			  
+			  
+			  
+			 
+			  
+			  
+			 
+			
+			
+		<div id="geroge-entry"	
+			 
+			 <li><h3>George Coffee</h3></li>
+			 <img src="george pic.jpg"
+			 width="300" height="200" style="align:left"></a>
+			 
+			 
+			 
+			 
+			   <p>George coffee is known across the metroplex
+			   as the perfect spot for the best photoshoots. It's
+			   clean and crisp exterior welcomes you into a space
+			   that feels more like a cool kids table scaled up into
+			   a coffee shop than anything else. The interior is just
+			   as pituresque and even homier. It also has this 
+			   weird tardis effect, seeming way bigger on the inside.
+			   </p>
+			     <ol>
+			   <h4><strong>Best Drink Choices</strong></h4>
+			   <li>Cayenne pepper mocha</li>
+			   <li>Honey lavendar latte</li>
+			   <li>Mocha Latte</li>
+			 
+			 
+			 
+			 
+			 </div>
+			   </ol>
+			     <br>
+			 
+			 <p><strong>Which one will you get?</strong>
+			  
+			  <select>
+			    
+				<option>Cayenne pepper mocha</option>
+				<option>Honey lavendar latte</option>
+				<option>Mocha Latte</option></p>
+				
+				
+				
+				</select>
+				
+		</div>
+			  
+			 
+	          <p>.  .  .  .  .  .  .  .  .  .  .  .  
+			.  .  .  .  .  .  .  .  .  .  .  .  .
+			.  .  .  .  .  .  .  .  .  .  .  .  .
+			.  .  .  .  .  .  .  .  .  .  .  .  .
+			. .  .  .  .  .  . </p>
+			
+			<li><h3>Edison Coffee Co</h3></li>
+			<img src="edison pic.jpg" width="400" height="200" style="align:left"></a> 
+			<p>Edison Coffe Co is somewhere very special to me. It was the
+			first coffee shop I discovered that was not a starbucks. I was
+			in Highschool at the time, and I did not even see the point
+			of doing coffe anywhere other than the well established chain. 
+			Boy was I wrong. My first drink there was a mocha, and I had no idea 
+			espresso could taste so good. Needless to say I was hooked. Over the 
+			years, Edison has changed locations several times and each time, it got
+			prettier and prettier until they finally built onf of the most asthetic 
+			interiors I have ever been in. Edison will always be where I discovered my
+			love for coffee, It will always be where I proposed to my wife, and 
+			it will always create that atmosphere of the "third place". If i were 
+			to pick an all time favorite, this would certainly be it. 
+			</p>
+			 <ol>
+			   <h4><strong>Best Drink Choices</strong></h4>
+			   <li>Blue suede shoes</li>
+			   <li>Lumberjack</li>
+			   <li>Arnold Palmer</li>
+			 
+			 
+			 
+			 
+			 
+			 </ol>
+			 
+			 
+			 <br>
+			 
+			 <p><strong>Which one will you get?</strong>
+			  
+			  <select>
+			    
+				<option>Blue suede shoes</option>
+				<option>Lumberjack</option>
+				<option>Arnold Palmer</option></p>
+				
+				
+				
+				</select>
+		</div>
+			  
+			 
+	          <p>.  .  .  .  .  .  .  .  .  .  .  .  
+			.  .  .  .  .  .  .  .  .  .  .  .  .
+			.  .  .  .  .  .  .  .  .  .  .  .  .
+			.  .  .  .  .  .  .  .  .  .  .  .  .
+			.  .  .  .  .  .  .  </p>
+			
+		<h2>Best Coffee Making Methods</h2>	
+		  <ul>
+		    <li>HarioV60</li>
+			<li>Kalita Wave</li>
+			<li>French Press</li>
+		   </ul>
+		   
+		   <br>
+			
+			<h3>How do you make coffee using the hario v60?</h3>
+	   
+	   <iframe width="560" height="315" 
+	   src="https://www.youtube.com/embed/AI4ynXzkSQo" 
+	   frameborder="0" allow="accelerometer; autoplay; 
+	   encrypted-media; gyroscope; picture-in-picture" 
+	   allowfullscreen></iframe>
+	   
+	   <br>
+	   
+	   
+	   <h3>How do you make coffee using the Kalita Wave?</h3>
+	   
+	   <iframe width="560" height="315" 
+	   src="https://www.youtube.com/embed/6x6YdlAmWLA" 
+	   frameborder="0" allow="accelerometer; autoplay; encrypted-media; 
+	   gyroscope; picture-in-picture" allowfullscreen></iframe>
+	   
+	   <br>
+	   
+	   
+	   <h3>How do you make coffee using the French Press?</h3>
+	   
+	  <iframe width="560" height="315" 
+	  src="https://www.youtube.com/embed/st571DYYTR8" 
+	  frameborder="0" allow="accelerometer; autoplay; 
+	  encrypted-media; gyroscope; picture-in-picture" 
+	  allowfullscreen></iframe>
+	   
+			
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  </ol>
+		  
+		  
+		<p><strong>Which ones have you tried?</strong></p>
+	  
+	  
+     
+	   <p><input type="checkbox">HarioV60
+	    <p><input type="checkbox">Kalita Wave
+		<p><input type="checkbox">French Press
+		<p><input type="checkbox">Man, I just like the coffee shakes..
+		
+		<br>
+		<br>
+		
+		<p>If you have checked just one of these boxes, that means
+		you have at least drank coffee at some point in your life</p> 
+		<p><em>Way to go!</em></p>
+		
+		<hr>
+		
+		
+		  <p>Want to know more great coffee places?
+		    <a href="https://www.instagram.com/txcoffeecraving/?hl=en">Show me more Places!</a>
+		      </p>
+		  
+		  
+		
+		
+		
+		</body>
+
+		<meta charset="utf-8" />
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+</head>
+
+	<body>
+	    
+	    <p id="quiz">Bonus question</p>
+	    
+	    
+			<p> How many cups of coffee have I had today?</p>
+			
+		
+			
+			<input type="text" id="magic-word">
+			
+			<button id="check">Guess</button>
+			
+				<p id="guess" class="correctAnswer" class="wrongAnswer"></p>
+			
+			
+				<script type ="text/javascript">
+	    
+	    	document.getElementById
+					("check").onclick = function() {
+				
+					var magicWordEntered = document.getElementById
+					("magic-word").value;
+					
+					var cupsOfCoffee = 2
+					
+					if  (magicWordEntered == cupsOfCoffee)  {
+						
+						document.getElementById("guess").innerHTML =
+						"You got it!";
+						
+					
+					} else {
+					
+					
+					document.getElementById("guess").innerHTML =
+						"Nope, guess again";
+					
+					}
+					
+				
+				}
+	    
+	    
+	    
+	</script>
+
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
